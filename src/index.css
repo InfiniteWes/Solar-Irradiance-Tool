@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Oceanwide';
+  src: url('../public/Oceanwide-Semibold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
